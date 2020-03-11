@@ -3992,10 +3992,10 @@ pg-types@1.*:
     postgres-date "~1.0.0"
     postgres-interval "^1.1.0"
 
-pg@7.1.1:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/pg/-/pg-7.1.1.tgz#4087d547f2604b318a4378d3befe462aaa0e3290"
-  integrity sha1-QIfVR/JgSzGKQ3jTvv5GKqoOMpA=
+pg@7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/pg/-/pg-7.1.2.tgz#5dce20f3ed680651444dc311061d719cc920c3d8"
+  integrity sha1-Xc4g8+1oBlFETcMRBh1xnMkgw9g=
   dependencies:
     buffer-writer "1.0.1"
     js-string-escape "1.0.1"
