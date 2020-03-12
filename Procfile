@@ -1,2 +1,2 @@
 web: node src/server.js
-release: run sequelize db:migrate
+release: heroku run sequelize db:migrate
