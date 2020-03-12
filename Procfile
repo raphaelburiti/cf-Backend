@@ -1,2 +1,2 @@
 web: node src/server.js
-release: npm sequelize db:migrate
+release: yarn sequelize db:migrate
